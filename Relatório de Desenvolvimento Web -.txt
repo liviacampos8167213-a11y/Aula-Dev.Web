@@ -1,0 +1,2 @@
+Relatório de Desenvolvimento Web - 21/10
+Na aula de hoje, aprendemos o básico sobre o GitHub, uma plataforma para controle de versão de projetos. O professor ensinou como criar um repositório, fazer commits para registrar alterações no código e enviar essas atualizações para o repositório remoto. Também comentou que é importante saber clonar repositórios, embora essa parte não tenha sido demonstrada na prática pois é algo simples de fazer. O uso do GitHub ajuda a organizar e salvar o trabalho de forma segura, sendo uma ferramenta fundamental para o desenvolvimento web.
